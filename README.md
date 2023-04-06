@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+<h2>Projetos</h2>
+
+<a href="https://vinny-knzts.github.io/trybewallet/" target="_blank">
+  Trybewallet
+</a>
+
 <h2>Contatos</h2>
 
 <div>
