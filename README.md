@@ -1,4 +1,4 @@
-### Olá, meu nome é Vinicius e sou um desenvolvedor web full stack atualmente estudando na Trybe
+### Olá, meu nome é Vinicius e sou um desenvolvedor web full stack
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinny-knzts&show_icons=true&theme=dark)](https://github.com/Vinny-knzts/github-readme-stats)
 <br>
